@@ -1,0 +1,9 @@
+out
+build
+*.bin
+*.3dsx
+*.smdh
+*.o
+*.d
+*.elf
+*.bat
